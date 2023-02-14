@@ -9,7 +9,7 @@ Cisza.
  * NIE ZGADZA SIĘ. -> nie_zgadza
 
 === zgadza ===
-Przyjmuje zlecenie.
+Przyjmuje zlecenie. Wychodzi z biura Szefa.
 -> END
     
 === nie_zgadza ===
