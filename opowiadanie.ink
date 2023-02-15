@@ -10,6 +10,7 @@ Cisza.
 
 === zgadza ===
 Przyjmuje zlecenie. Wychodzi z biura Szefa.
+zamknął drzwi.
 -> END
     
 === nie_zgadza ===
