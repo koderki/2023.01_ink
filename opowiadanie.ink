@@ -15,3 +15,11 @@ Przyjmuje zlecenie. Wychodzi z biura Szefa.
 === nie_zgadza ===
 Odrzuca zlecenie.
 -> END
+OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
+
+\-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
+\-Arietta!-ktos zawołał
+James odrazu wiedział że chodzi o jego byłą dziewczynę.
+\-Zdziwiony chłopak zawołał:
+\-Arietta, czy to ty?
+\-Czyli pamiętasz jeszcze mnie?
