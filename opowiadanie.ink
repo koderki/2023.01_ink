@@ -34,11 +34,11 @@ Spotkana po latach dwójka przyjaciół już po chwili swobodnie rozmawiała.
 Na rozmowach i wspomnieniach zleciało im kilka dni. Przez ten czas zdrowie Jamesa wróciło do normy.
 
 Pewnego dnia postanowili opuścić jaskinię. Brakowało im już prowiantu.
-Po dwóch kwadransu poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
+Po dwóch kwadransach poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
 Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
+-> END
 
-
-
+=== szpital ===
 
 
 
