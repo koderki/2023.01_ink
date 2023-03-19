@@ -47,5 +47,4 @@ Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
 === szpital ===
 
 
-
 -> END
