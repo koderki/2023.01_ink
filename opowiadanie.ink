@@ -3,13 +3,20 @@ Cisza.
 \- Zrobione? - w bezdennym głosie nie dało się wyczuć emocji.
 \- Tak, sir.
 \- Mam dla Ciebie nowe zlecenie. - Otworzył szufladę i wyciągnął zdjęcie czerwonowłosej dziewczyny.
-\- Uśpij ją i przywieź do mnie.
+\- Uśpij ją i przywieź do mnie. Nie będę czekać.
 
  * ZGADZA SIĘ. -> zgadza
  * NIE ZGADZA SIĘ. -> nie_zgadza
 
 === zgadza ===
-Przyjmuje zlecenie. Wychodzi z biura Szefa.
+OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
+
+\-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
+\-Arietta!-ktos zawołał
+James odrazu wiedział że chodzi o jego byłą dziewczynę.
+\-Zdziwiony chłopak zawołał:
+\-Arietta, czy to ty?
+\-Czyli pamiętasz jeszcze mnie?
 -> END
     
 === nie_zgadza ===
@@ -33,12 +40,11 @@ Spotkana po latach dwójka przyjaciół już po chwili swobodnie rozmawiała.
 Na rozmowach i wspomnieniach zleciało im kilka dni. Przez ten czas zdrowie Jamesa wróciło do normy.
 
 Pewnego dnia postanowili opuścić jaskinię. Brakowało im już prowiantu.
-Po dwóch kwadransu poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
+Po dwóch kwadransach poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
 Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
+-> END
 
-
-
-
+=== szpital ===
 
 
 -> END
