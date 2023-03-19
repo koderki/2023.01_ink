@@ -9,8 +9,14 @@ Cisza.
  * NIE ZGADZA SIĘ. -> nie_zgadza
 
 === zgadza ===
-Przyjmuje zlecenie. Wychodzi z biura Szefa.
-Zamknął drzwi.
+OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
+
+\-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
+\-Arietta!-ktos zawołał
+James odrazu wiedział że chodzi o jego byłą dziewczynę.
+\-Zdziwiony chłopak zawołał:
+\-Arietta, czy to ty?
+\-Czyli pamiętasz jeszcze mnie?
 -> END
     
 === nie_zgadza ===
