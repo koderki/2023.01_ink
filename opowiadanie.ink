@@ -9,6 +9,12 @@ Cisza.
  * NIE ZGADZA SIĘ. -> nie_zgadza
 
 === zgadza ===
+
+OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
+Poczuł zimne powietrze. Usłyszał damski głos, który z niego kpił. Miał poczucie, że coś zaraz się stanie. Nagle poczuł nasilający sie ból głowy. Spytał się:
+
+
+
 OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
 
 \-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
