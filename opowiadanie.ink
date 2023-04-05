@@ -45,7 +45,12 @@ Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
 -> END
 
 === szpital ===
+Chłopak otworzył oczy, głowa pulsowała mu bólem. Spróbował powoli usiąśćna łóżku. Rozejrzał się. Usłyszał kroki i szybko wrócił do poprzedniej pozycji. 
+Zamknął oczy, lecz głos jaki usłyszał kazał mu je otworzyć ponownie.
 
-bopb
+\- Dawno się nie widzieliśmy, James. - powiedziała dziewczyna, której głos miał ledwo wyczuwalną kpinę.
+\- Niemożliwe - szepnął.
+Okazało się, że była to ta czerwonowłosa dziewczyna ze zdjęcia - jego dawna wspólniczka - Tari.
 
+Po chwili można było usłyszeć rozmowę pełną śmiechów i wspomnień. Dwoje przyjaciół było znowu razem.
 -> END
