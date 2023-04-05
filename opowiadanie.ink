@@ -25,8 +25,7 @@ Poczuł zimne powietrze. Usłyszał damski głos, który z niego kpił. Miał po
 * Czy coś mi podałaś? -> podałaś
 * Gdzie ja jestem? -> gdzie_ja_jestem
 
-
- ===podalaś===
+ === podałaś ===
 \- Hehe...Tak,a co?
 \- Jakoś musiałam cię tu przywlec - powiedziała kobieta.
 \- Co?!
@@ -35,16 +34,21 @@ Zauważyl zbirzający się cień człowieka, ale nie wiedział kto to.
 Z ciemności wyszedl meżczyzna.
 \- Zawiodłeś - mężczyzna okazał się szefem mafii.Miał w rece pistolet.
 \- Nie... Proszę!
-Wtem Szef padł. To pies Arietty - Zdzisiu - skoczył na niego obezwładniając go.
-\- To koniec. Dla was obu... - głos należał do Arietty.
-Kobieta wzieła rece bezwładnego Szefa i aresztowala go.
-	\- Konie... - szepnął Asasyn i zamknął oczy.
- ->END
 
+=== gdzie_ja_jestem ===
+W odpowiedzi zaszczekał nieznany pies. Po chwili ukazał się Zdzisiu, ze swoją panią - Ariettą, znaną detektywką.
+\- Witaj.
+\- Kim jesteś?! Czego ode mnie chcesz?
+\- Nie bój się. Dla ciebie to już koniec.
+\- Co?! Nie... co mi zrobiłaś?!
+Głos odezwał się ponownie, lecz James mało co słyszał.
+\- Jesteś za bardzo zmęczony, nie zrozumiesz - odezwała się kobieta głosem cichym i spokojnym.
+Chłopak zaczął się telepotać. Przewrócił się i uderzył głową o kamień. 
+Już nigdy się nie obudził...
 
+    KONIEC
 
-
-
+-> END
 
 === dziwne_pomieszczenie ===
 
