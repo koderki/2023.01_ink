@@ -21,8 +21,11 @@ Na myśl asasyna wróciła pamięć o tragicznej śmierci brata, który powiedzi
 
 === ciche_i_wilgotne_pomieszczenie ===
 Poczuł zimne powietrze. Usłyszał damski głos, który z niego kpił. Miał poczucie, że coś zaraz się stanie. Nagle poczuł nasilający sie ból głowy. Spytał się:
+
 * Czy coś mi podałaś? -> podałaś
 * Gdzie ja jestem? -> gdzie_ja_jestem
+
+
  ===podalaś===
 \- Hehe...Tak,a co?
 \- Jakoś musiałam cię tu przywlec - powiedziała kobieta.
@@ -32,6 +35,11 @@ Zauważyl zbirzający się cień człowieka, ale nie wiedział kto to.
 Z ciemności wyszedl meżczyzna.
 \- Zawiodłeś - mężczyzna okazał się szefem mafii.Miał w rece pistolet.
 \- Nie... Proszę!
+Wtem Szef padł. To pies Arietty - Zdzisiu - skoczył na niego obezwładniając go.
+\- To koniec. Dla was obu... - głos należał do Arietty.
+Kobieta wzieła rece bezwładnego Szefa i aresztowala go.
+	\- Konie... - szepnął Asasyn i zamknął oczy.
+ ->END
 
 
 
