@@ -19,11 +19,11 @@ Na myśl asasyna wróciła pamięć o tragicznej śmierci brata, który powiedzi
 * OBUDZIŁ SIĘ W CICHYM I WILGOTNYM POMIESZCZENIU. -> ciche_i_wilgotne_pomieszczenie
 
 
-=== dziwne_pomieszczenie ===
+=== ciche_i_wilgotne_pomieszczenie ===
 Poczuł zimne powietrze. Usłyszał damski głos, który z niego kpił. Miał poczucie, że coś zaraz się stanie. Nagle poczuł nasilający sie ból głowy. Spytał się:
 
 
-=== ciche_i_wilgotne_pomieszczenie ===
+=== dziwne_pomieszczenie ===
 
 \-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
 \-Arietta!-ktos zawołał
