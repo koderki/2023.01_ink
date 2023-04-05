@@ -21,6 +21,21 @@ Na myśl asasyna wróciła pamięć o tragicznej śmierci brata, który powiedzi
 
 === ciche_i_wilgotne_pomieszczenie ===
 Poczuł zimne powietrze. Usłyszał damski głos, który z niego kpił. Miał poczucie, że coś zaraz się stanie. Nagle poczuł nasilający sie ból głowy. Spytał się:
+* Czy coś mi podałaś? -> podałaś
+* Gdzie ja jestem? -> gdzie_ja_jestem
+ ===podalaś===
+\- Hehe...Tak,a co?
+\- Jakoś musiałam cię tu przywlec - powiedziała kobieta.
+\- Co?!
+Zauważyl zbirzający się cień człowieka, ale nie wiedział kto to.
+\- Halo?! Wygineli wszyscy, czy co? - powiedział ziirytowany James.
+Z ciemności wyszedl meżczyzna.
+\- Zawiodłeś - mężczyzna okazał się szefem mafii.Miał w rece pistolet.
+\- Nie... Proszę!
+
+
+
+
 
 
 === dziwne_pomieszczenie ===
