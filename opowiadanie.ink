@@ -53,4 +53,5 @@ Zamknął oczy, lecz głos jaki usłyszał kazał mu je otworzyć ponownie.
 Okazało się, że była to ta czerwonowłosa dziewczyna ze zdjęcia - jego dawna wspólniczka - Tari.
 
 Po chwili można było usłyszeć rozmowę pełną śmiechów i wspomnień. Dwoje przyjaciół było znowu razem.
+Minęło kilka dni. Tari i James przeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
 -> END
