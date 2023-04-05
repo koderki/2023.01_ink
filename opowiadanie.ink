@@ -40,14 +40,24 @@ Z ciemności wyszedl meżczyzna.
 
 === dziwne_pomieszczenie ===
 
-\-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
-\-Arietta!-ktos zawołał
-James odrazu wiedział że chodzi o jego byłą dziewczynę.
-\-Zdziwiony chłopak zawołał:
-\-Arietta, czy to ty?
-\-Czyli pamiętasz jeszcze mnie?
 
-    
+Gdy otworzył oczy, jedyne co zobaczył to ciemne pomieszczenie.
+\- Arietta! -ktos zawołał.
+James odrazu wiedział że chodzi o jego byłą dziewczynę.
+Zdziwiony chłopak zawołał:
+\- Arietta, czy to ty?
+\- Czyli pamiętasz jeszcze mnie? - uśmiechnęła się kobieta.
+\- Czego chcesz?! Zostaw mnie... Daj mi robić moją pracę!
+\- Obawiam się, że za późno już na robienie twojej pracy...
+\- O czym ty mówisz?! - krzyknął z furią asasyn.
+Kobieta włączyła radio. Z głośnika można było usłyszeć: ,, ...boss maffi, wielki Pan Niewidzalny został wreszcie złapany!.. "
+
+\- Nie... nie wierzę ci!
+Wtedy z ciemności wyszli antyterroryści z bronią wycelowaną w czoło Jamesa. Chłopak już po chwili poddał się i dał się aresztować.
+
+KONIEC
+
+  
 === nie_zgadza ===
 \- Nie...Proszę, tylko nie to - powiedział jąkając się.
 \- Jeśli tego nie zrobisz to pożałujesz – odpowiedział szef głosem, w którym dało się wyczuć groźbę.
