@@ -18,7 +18,6 @@ Na myśl asasyna wróciła pamięć o tragicznej śmierci brata, który powiedzi
 * OBUDZIŁ SIĘ W CICHYM I WILGOTNYM POMIESZCZENIU. -> ciche i wilgotne pomieszczenie
 
 
--> END
     
 === nie_zgadza ===
 \- Nie...Proszę, tylko nie to - powiedział jąkając się.
@@ -43,7 +42,6 @@ Na rozmowach i wspomnieniach zleciało im kilka dni. Przez ten czas zdrowie Jame
 Pewnego dnia postanowili opuścić jaskinię. Brakowało im już prowiantu.
 Po dwóch kwadransach poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
 Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
--> END
 
 === szpital ===
 Chłopak otworzył oczy, głowa pulsowała mu bólem. Spróbował powoli usiąśćna łóżku. Rozejrzał się. Usłyszał kroki i szybko wrócił do poprzedniej pozycji. 
@@ -65,7 +63,7 @@ Znaleźli radio i spróbowali je odpalić. Udało się. Natrafili na kanał z wi
 
       
      KONIEC
-     
+-> END     
  === telewizor ===    
  W końcu znakleźli stary telewizor i spróbowali go włączyć. Natrafili na kanał z wiadomościami i zaciekawieni zaczęli oglądać.
  - Znana wszystkim - detektyw Arietta złapała i zlikwidowała bossa mafii - Pana Niewidzalnego.
