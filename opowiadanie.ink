@@ -10,12 +10,20 @@ Cisza.
 
 === zgadza ===
 
-OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
+\- Ja...nie... - zająknął się.
+\- Wiesz dobrze co się stanie jeśli tego nie zrobisz.
+Na myśl asasyna wróciła pamięć o tragicznej śmierci brata, który powiedział nie.
+\- Tak... ser - wziął zdjęcie dziewczyny i wyszedł z pokoju. Na korytarzu były rozrzucone papiery. Poślizgnął się o nie i stracił przytomność.
+
+* OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU. -> dziwne pomieszczenie
+* OBUDZIŁ SIĘ W CICHYM I WILGOTNYM POMIESZCZENIU. -> ciche i wilgotne pomieszczenie
+
+
+=== dziwne pomieszczenie ===
 Poczuł zimne powietrze. Usłyszał damski głos, który z niego kpił. Miał poczucie, że coś zaraz się stanie. Nagle poczuł nasilający sie ból głowy. Spytał się:
 
 
-
-OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
+=== ciche i wilgotne pomieszczenie ===
 
 \-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
 \-Arietta!-ktos zawołał
@@ -23,7 +31,7 @@ James odrazu wiedział że chodzi o jego byłą dziewczynę.
 \-Zdziwiony chłopak zawołał:
 \-Arietta, czy to ty?
 \-Czyli pamiętasz jeszcze mnie?
--> END
+
     
 === nie_zgadza ===
 \- Nie...Proszę, tylko nie to - powiedział jąkając się.
@@ -48,7 +56,7 @@ Na rozmowach i wspomnieniach zleciało im kilka dni. Przez ten czas zdrowie Jame
 Pewnego dnia postanowili opuścić jaskinię. Brakowało im już prowiantu.
 Po dwóch kwadransach poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
 Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
--> END
+
 
 === szpital ===
 Chłopak otworzył oczy, głowa pulsowała mu bólem. Spróbował powoli usiąśćna łóżku. Rozejrzał się. Usłyszał kroki i szybko wrócił do poprzedniej pozycji. 
