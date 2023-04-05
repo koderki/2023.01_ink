@@ -15,15 +15,15 @@ Cisza.
 Na myśl asasyna wróciła pamięć o tragicznej śmierci brata, który powiedział nie.
 \- Tak... ser - wziął zdjęcie dziewczyny i wyszedł z pokoju. Na korytarzu były rozrzucone papiery. Poślizgnął się o nie i stracił przytomność.
 
-* OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU. -> dziwne pomieszczenie
-* OBUDZIŁ SIĘ W CICHYM I WILGOTNYM POMIESZCZENIU. -> ciche i wilgotne pomieszczenie
+* OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU. -> dziwne_pomieszczenie
+* OBUDZIŁ SIĘ W CICHYM I WILGOTNYM POMIESZCZENIU. -> ciche_i_wilgotne_pomieszczenie
 
 
-=== dziwne pomieszczenie ===
+=== dziwne_pomieszczenie ===
 Poczuł zimne powietrze. Usłyszał damski głos, który z niego kpił. Miał poczucie, że coś zaraz się stanie. Nagle poczuł nasilający sie ból głowy. Spytał się:
 
 
-=== ciche i wilgotne pomieszczenie ===
+=== ciche_i_wilgotne_pomieszczenie ===
 
 \-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
 \-Arietta!-ktos zawołał
