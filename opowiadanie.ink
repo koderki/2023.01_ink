@@ -45,6 +45,31 @@ Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
 -> END
 
 === szpital ===
+Chłopak otworzył oczy, głowa pulsowała mu bólem. Spróbował powoli usiąśćna łóżku. Rozejrzał się. Usłyszał kroki i szybko wrócił do poprzedniej pozycji. 
+Zamknął oczy, lecz głos jaki usłyszał kazał mu je otworzyć ponownie.
 
+\- Dawno się nie widzieliśmy, James. - powiedziała dziewczyna, której głos miał ledwo wyczuwalną kpinę.
+\- Niemożliwe - szepnął.
+Okazało się, że była to ta czerwonowłosa dziewczyna ze zdjęcia - jego dawna wspólniczka - Tari.
+
+Po chwili można było usłyszeć rozmowę pełną śmiechów i wspomnień. Dwoje przyjaciół było znowu razem.
+Minęło kilka dni. Tari i James przeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
+
+* ZNALEŹLI RADIO. -> radio
+* ZNALEŹLI TELEWIZOR. -> telewizor
+
+=== radio ===
+Znaleźli radio i spróbowali je odpalić. Udało się. Natrafili na kanał z wiadomościami. Usłyszeli niski głos mówiący.
+- Pan Niewidzialny - bardzo niebezpieczny przestępca - został zlikwidowany przez znaną wszystkim Ariettę - detektywa, specjalizującą się w łapaniu morderców.
+
+      
+     KONIEC
+     
+ === telewizor ===    
+ W końcu znakleźli stary telewizor i spróbowali go włączyć. Natrafili na kanał z wiadomościami i zaciekawieni zaczęli oglądać.
+ - Znana wszystkim - detektyw Arietta złapała i zlikwidowała bossa mafii - Pana Niewidzalnego.
+ 
+ 
+     KONIEC  
 
 -> END
