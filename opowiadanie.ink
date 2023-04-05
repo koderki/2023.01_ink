@@ -9,14 +9,15 @@ Cisza.
  * NIE ZGADZA SIĘ. -> nie_zgadza
 
 === zgadza ===
-OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU
+\- Ja...nie... - zająknął się.
+\- Wiesz dobrze co się stanie jeśli tego nie zrobisz.
+Na myśl asasyna wróciła pamięć o tragicznej śmierci brata, który powiedział nie.
+\- Tak... ser - wziął zdjęcie dziewczyny i wyszedł z pokoju. Na korytarzu były rozrzucone papiery. Poślizgnął się o nie i stracił przytomność.
 
-\-Gdy otworzył oczy,jedyne co zobaczył yo ciemne pomieszczenie
-\-Arietta!-ktos zawołał
-James odrazu wiedział że chodzi o jego byłą dziewczynę.
-\-Zdziwiony chłopak zawołał:
-\-Arietta, czy to ty?
-\-Czyli pamiętasz jeszcze mnie?
+* OBUDZIŁ SIĘ W DZIWNYM POMIESZCZENIU. -> dziwne pomieszczenie
+* OBUDZIŁ SIĘ W CICHYM I WILGOTNYM POMIESZCZENIU. -> ciche i wilgotne pomieszczenie
+
+
 -> END
     
 === nie_zgadza ===
