@@ -111,14 +111,14 @@ Minęło kilka dni. Tari i James przeszukali cały szpital w poszukiwaniu przyda
 
 === radio ===
 Znaleźli radio i spróbowali je odpalić. Udało się. Natrafili na kanał z wiadomościami. Usłyszeli niski głos mówiący.
-- Pan Niewidzialny - bardzo niebezpieczny przestępca - został zlikwidowany przez znaną wszystkim Ariettę - detektywa, specjalizującą się w łapaniu morderców.
+\- Pan Niewidzialny - bardzo niebezpieczny przestępca - został zlikwidowany przez znaną wszystkim Ariettę - detektywa, specjalizującą się w łapaniu morderców.
 
       
      KONIEC
      
  === telewizor ===    
  W końcu znakleźli stary telewizor i spróbowali go włączyć. Natrafili na kanał z wiadomościami i zaciekawieni zaczęli oglądać.
- - Znana wszystkim - detektyw Arietta złapała i zlikwidowała bossa mafii - Pana Niewidzalnego.
+ \- Znana wszystkim - detektyw Arietta złapała i zlikwidowała bossa mafii - Pana Niewidzalnego.
  
  
      KONIEC  
