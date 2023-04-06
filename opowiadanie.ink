@@ -68,7 +68,7 @@ Kobieta włączyła radio. Z głośnika można było usłyszeć: ,, ...boss maff
 Wtedy z ciemności wyszli antyterroryści z bronią wycelowaną w czoło Jamesa. Chłopak już po chwili poddał się i dał się aresztować.
 
 KONIEC
-
+ -> END
   
 === nie_zgadza ===
 \- Nie...Proszę, tylko nie to - powiedział jąkając się.
@@ -94,6 +94,8 @@ Pewnego dnia postanowili opuścić jaskinię. Brakowało im już prowiantu.
 Po dwóch kwadransach poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
 Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
 
+* ZNALEŹLI RADIO -> radio
+ *ZNALEŹLI TELEWIZOR -> telewizor
 
 === szpital ===
 Chłopak otworzył oczy, głowa pulsowała mu bólem. Spróbował powoli usiąśćna łóżku. Rozejrzał się. Usłyszał kroki i szybko wrócił do poprzedniej pozycji. 
@@ -113,9 +115,9 @@ Minęło kilka dni. Tari i James przeszukali cały szpital w poszukiwaniu przyda
 Znaleźli radio i spróbowali je odpalić. Udało się. Natrafili na kanał z wiadomościami. Usłyszeli niski głos mówiący.
 \- Pan Niewidzialny - bardzo niebezpieczny przestępca - został zlikwidowany przez znaną wszystkim Ariettę - detektywa, specjalizującą się w łapaniu morderców.
 
+      KONIEC
       
-     KONIEC
-     
+   -> END   
  === telewizor ===    
  W końcu znakleźli stary telewizor i spróbowali go włączyć. Natrafili na kanał z wiadomościami i zaciekawieni zaczęli oglądać.
  \- Znana wszystkim - detektyw Arietta złapała i zlikwidowała bossa mafii - Pana Niewidzalnego.
